@@ -41,12 +41,12 @@ acc-cheddar: '0,60€'
 #-----------------------------------MENU-----------------------------------
 #--------------------------------ASSIETTES---------------------------------
 ass-doner: '9,85€'
-ass-iskender: 11,40€
-ass-steak: 9,20€
-ass-cotelettes-agneau: 11,40€
-ass-cordon: 9,65€
-ass-sis-tavuk: 10,40€
-ass-merguez: 8,60€
-ass-excellence: 15,20€
-ass-nuggets: 8,20€
+ass-iskender: '11,40€'
+ass-steak: '9,20€'
+ass-cotelettes-agneau: '11,40€'
+ass-cordon: '9,65€'
+ass-sis-tavuk: '10,40€'
+ass-merguez: '8,60€'
+ass-excellence: '15,20€'
+ass-nuggets: '8,20€'
 #--------------------------------ASSIETTES---------------------------------
